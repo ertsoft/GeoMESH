@@ -3,6 +3,7 @@
 ## Screenshots
 
 ### 1. Prezentare Generală
+Elementele trasate cu rosu nu au fost inca implementate
 ![Prezentare Generală](img_git/1.png)
 
 ### 2. Selectare basemap
