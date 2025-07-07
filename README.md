@@ -21,7 +21,7 @@ Ce urmeaza de implementat:
   - afisarea pe harta a utilizatorilor,
   - functia de find_me care sa faca zoom pe locatia utilizatorului curent,
   - functia find_user_by_user_id, reprezentata prin MDIconButton cu icon=magnify (lupă) -- sunt cele cu culoarea rosie din imaginea 1,
-  - testarea aplicatiei, kivy ruleaza aplicatia in Windows, nu genereaza un .apk cum face Kotlin/Flutter in AndroidStudio.Astfel va urma generarea fisierului .apk si testarea pe un dispozitiv fizic cu Andorid.
+  - testarea aplicatiei, kivy ruleaza aplicatia in Windows, nu genereaza un .apk cum face Kotlin/Flutter in AndroidStudio. Astfel va urma generarea fisierului .apk si testarea pe un dispozitiv fizic cu Andorid.
 
 ## Screenshots
 
