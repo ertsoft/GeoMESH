@@ -1,4 +1,4 @@
-# MillApp
+# Aplicatie disertație - Dezvoltarea unei aplicații mobile GIS
 
 ## Screenshots
 
