@@ -3,10 +3,10 @@
 ## Screenshots
 
 ### 1. Screenshot
-![Screenshot](img_git/screenshot.png)
+![Screenshot](img_git/1.png)
 
 ### 2. Selectare basemap
-![Selectare basemap](<img_git/2 (selectare_basemap).png>)
+![Selectare basemap](<img_git/2 (selectare basemap).png>)
 
 ### 3. Selectare OSM
 ![Selectare OSM](<img_git/3 (selectare_OSM).png>)
