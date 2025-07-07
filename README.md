@@ -23,7 +23,7 @@
 ### 7. Meniu actualizat
 ![Meniu actualizat](<img_git/7 (Meniu_actualizat).png>)
 
-### 8. Calculare distanță
+### 8. Calculare distanță (daca e mai mica de 1km este afisata in m, altfel in km)
 ![Distanța](<img_git/8(distanta).png>)
 
 ### 9. Calculare arie și perimetru
