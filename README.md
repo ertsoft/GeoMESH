@@ -9,7 +9,7 @@
 ![Selectare basemap](<img_git/2 (selectare basemap).png>)
 
 ### 3. Selectare OSM
-![Selectare OSM](<img_git/3 (selectare_OSM).png>)
+![Selectare OSM](<img_git/3 (basemap_OSM).png>)
 
 ### 4. Meniu
 ![Meniu](<img_git/4 (meniu).png>)
