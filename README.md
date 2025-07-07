@@ -23,11 +23,11 @@
 ### 7. Meniu actualizat
 ![Meniu actualizat](<img_git/7 (Meniu_actualizat).png>)
 
-### 8. Distanța
-![Distanța](<img_git/8 (distanta).png>)
+### 8. Calculare distanță
+![Distanța](<img_git/8(distanta).png>)
 
-### 9. Arie și perimetru
-![Arie și perimetru](<img_git/9 (arie+perimetru).png>)
+### 9. Calculare arie și perimetru
+![Arie și perimetru](<img_git/9(arie+perimetru).png>)
 
 ### 10. Creare punct
 ![Creare punct](<img_git/10 (creare_pct).png>)
