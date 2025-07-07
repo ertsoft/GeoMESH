@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-### 1. Screenshot
+### 1. Prezentare Generală
 ![Prezentare Generală](img_git/1.png)
 
 ### 2. Selectare basemap
