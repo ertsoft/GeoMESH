@@ -35,7 +35,7 @@
 ### 11. Selectare element
 ![Selectare element](<img_git/11 (selectare_elem).png>)
 
-### 12. Modificare atribute
+### 12. Modificare atribute / proprietati (culoarea in acest caz)
 ![Modificare atribute](<img_git/12 (modificare_prop [atribute]).png>)
 
 ### 13. Elemente șterse
