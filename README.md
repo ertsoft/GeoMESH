@@ -3,7 +3,7 @@
 ## Screenshots
 
 ### 1. Screenshot
-![Screenshot](img_git/1.png)
+![Prezentare Generală](img_git/1.png)
 
 ### 2. Selectare basemap
 ![Selectare basemap](<img_git/2 (selectare basemap).png>)
